@@ -10,7 +10,7 @@ import org.apache.flink.connector.kafka.source.enumerator.initializer.OffsetsIni
 import org.apache.flink.streaming.connectors.kinesis.FlinkKinesisConsumer;
 import org.apache.flink.streaming.connectors.kinesis.config.AWSConfigConstants;
 import org.apache.flink.streaming.connectors.kinesis.config.ConsumerConfigConstants;
-import org.example.bean.KinesisiBean;
+import org.example.bean.*;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
