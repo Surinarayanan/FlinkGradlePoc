@@ -2,11 +2,10 @@ package org.example;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
-import java.util.Map;
 
 import org.apache.flink.api.common.serialization.DeserializationSchema;
 import org.apache.flink.api.common.typeinfo.TypeInformation;
-import org.apache.flink.util.Collector;
+import org.example.bean.AuditBean;
 
 /**
  * @Author : Suri Aravind

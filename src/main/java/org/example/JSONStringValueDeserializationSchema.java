@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import org.apache.flink.api.common.serialization.DeserializationSchema;
 import org.apache.flink.api.common.typeinfo.TypeInformation;
-import org.apache.flink.kinesis.shaded.com.amazonaws.services.dynamodbv2.xspec.S;
+import org.example.bean.KinesisiBean;
 
 /**
  * @Author : Suri Aravind

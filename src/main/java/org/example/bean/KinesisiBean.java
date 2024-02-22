@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bean;
 
 /**
  * @Author : Suri Aravind @Creation Date : 22/02/24
